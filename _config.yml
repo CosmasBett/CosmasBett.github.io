@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cosmas Bett Portfolio
-email:
+email: cosmasbett199@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ICT Specialist | Cybersecurity Analyst | Networking | Data Analyst 
+  ICT Specialist and aspiring to be Cybersecurity Analyst.
 twitter_username: cosmasbett_
 github_username: CosmasBett
 minimal_mistakes_skin: default
