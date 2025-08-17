@@ -1,8 +1,7 @@
 ---
-title: "Projects"
-layout: projects
 permalink: /Projects/
-author_profile: true
+title: "My projects"
 ---
+
  **Project 1**
  - 
