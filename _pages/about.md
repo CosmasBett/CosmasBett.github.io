@@ -3,6 +3,26 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am an ICT specialist with solid foundation knowledge in Programming Languages, Networking, Database Management and Cybersecurity. Passionate about leveraging technical skills to contribute in real-world projects and solve complex problems. My cybersecurity skills will help me handle security threats and vulnerabilities. Strong communication skills, critical thinking and problem-solving, teamwork and collaboration will help me reach the goal of an organization.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**SKILLS**
+Soft kills
+
+-	Productivity and Time Management
+-	Critical Thinking and Problem Solving
+-	Communication Skills 
+-	Emotional Intelligence
+-	Teamwork and Collaboration
+-	Continuous learning
+
+Technical Skilss
+
+-	Computer Programming
+-	Software Development
+-	Network and System Administration
+-	Project Management
+-	Cyber Best Practices
+-	Threat Detection
+-	Privacy And Data Confidentiality
+-	Data Analytics 
+
