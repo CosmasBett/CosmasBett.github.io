@@ -58,32 +58,32 @@ plugins:
 author:
   name   : "Cosmas Bett"
   avatar : "/assets/images/Bett.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "ICT Specialist | Cybersecurity Analyst | Networking | Data Analyst"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/CosmasBett_/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/cosmasbett/"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/cosmas-bett/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/CosmasBett_/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cosmasbett/"
+    # label: "Instagram"
+    # icon: "fab fa-fw fa-instagram"
+    # url: "https://instagram.com/"
 
 defaults:
   # _posts
