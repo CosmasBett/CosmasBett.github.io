@@ -1,11 +1,10 @@
 ---
-title: "Contacts"
 permalink: /contacts/
-layout: contacts
-author_profile: true
+title: "My Contacts"
 ---
-phone No: +254 759 657 387
 
-Email Address: cosmasbett199@gmail.com
+- Phone No: +254 759 657 387
 
-Linkedin: https://www.linkedin.com/in/cosmas-bett/
+- Email Address: cosmasbett199@gmail.com
+
+- Linkedin: https://www.linkedin.com/in/cosmas-bett/
