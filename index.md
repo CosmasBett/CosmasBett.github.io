@@ -21,4 +21,18 @@ LAIKIPIA UNIVERSITY
 KABOLOIN SECONDARY SCHOOL
 
  **Professional Experience**
- - 
+ 
+ - BUSSINESS SUPPORT EXERCUTIVE(Intern)                       MAY-AUG 2024
+SOFTLINK OPTIONS LIMITED  – Nairobi, Kenya	      
+
+-	Gained practical skills in WordPress management and design using WordPress, ERP deployment, SSL installation, SEO, database administration, UI/UX design, and website optimization
+- Strengthened my proficiency in web development, secure hosting, system configuration, and digital content management.
+
+  **Certifications**
+
+  -	Introduction To Cybersecurity
+CISCO 
+
+  - Cybersecurity And Emerging Technologies Awareness Training
+ICT AUTHORITY | LEARNOVATE
+
