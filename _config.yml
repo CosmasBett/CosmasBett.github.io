@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Cosmas Bett"
   avatar : "/assets/images/Bett.png"
-  bio    : "ICT Specialist | Cybersecurity Analyst | Networking | Data Analyst"
+  bio    : "ICT Specialist and aspiring to be Cybersecurity Analyst."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
